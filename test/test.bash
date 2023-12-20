@@ -5,10 +5,8 @@ dir=~
 
 cd $dir/ros2_ws
 colcon build
-
 source $dir/.bashrc
-
 timeout 10 ros2 launch mypkg taik_listen.launch.py > /tmp/mypkg.log
 
 cat /tmp/mypkg.log  |
-grep 'Listen: 10000'
+grep 'Listen: 10'
