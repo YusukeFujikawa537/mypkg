@@ -1,4 +1,4 @@
-![test](https://github.com/YusukeFujikawa/robosys2022/actions/workflows/test.yml/badge.svg)
+![test](https://github.com/YusukeFujikawa537/mypkg/actions/workflows/test.yml/badge.svg)
 
 # mypkg
 
