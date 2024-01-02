@@ -64,7 +64,7 @@ $ ros2 launch mypkg talk_listen.launch.py
 * Python 
 
 ## テスト環境
-https://hub.docker.com/repository/docker/ryuichiueda/ubuntu22.04-ros2
+https://hub.docker.com/repository/docker/ryuichiueda/ubuntu22.04-ros2(テストに利用するコンテナのURL) 
 * ROS2 foxy    
 * ubuntu 20.04 
 上記ヴァージョンにて動作確認済み
