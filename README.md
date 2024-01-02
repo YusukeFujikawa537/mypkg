@@ -13,7 +13,6 @@
 実行すると0.5秒おきにメッセージを送信する。メッセージは自然数で、１ずつ増えていく。
 
 * 使い方
-
 `` $ ros2 run mypkg talker ``
 
 ### listener.py
@@ -62,7 +61,8 @@ $ ros2 launch mypkg talk_listen.launch.py
 
 ## 必要なソフトウェア
 * Python 
-
+* ROS2 foxy
+  
 ## テスト環境
 GitHubActionsでのテスト環境構築に以下のコンテナを使用した.
 https://hub.docker.com/repository/docker/ryuichiueda/ubuntu22.04-ros2
